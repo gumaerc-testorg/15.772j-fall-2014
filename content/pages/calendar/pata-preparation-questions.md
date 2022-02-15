@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Calendar
+parent_type: CourseSection
 parent_uid: 6b4f9286-3fba-1c85-bb1e-0aae26230815
 title: PATA Preparation Questions
 uid: 80447e39-0a7d-057e-adab-c9f98ad42486

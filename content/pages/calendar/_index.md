@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 6b4f9286-3fba-1c85-bb1e-0aae26230815
 ---
@@ -55,7 +57,7 @@ We will conduct a supply chain simulation in class.
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Sterman, J. D. "[Teaching Takes Off: Flight Simulators for Management Education](http://web.mit.edu/jsterman/www/SDG/beergame.html)." _OR / MS Today_, October 1992, 40–44.
@@ -102,7 +104,7 @@ Demand Management and Forecasting (Start)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Bass, F. M. "[A New Product Growth for Model Consumer Durables](http://dx.doi.org/10.1287/mnsc.15.5.215)." _Management Science_ 15, no. 5 (1969): 215–27.
@@ -281,7 +283,7 @@ n/a
 {{< tdopen >}}
 Deterministic-demand Inventory Models
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 n/a
@@ -509,7 +511,7 @@ Introduce case study: Designing a Malaria Intervention Supply Chain
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Griffin, J., P. Keskinocak, et al. "[Case Study: Designing a Malaria Intervention Supply Chain](https://acasestudy.com/designing-a-malaria-intervention-supply-chain-a-case-study/)." Georgia Health and Humanitarian Tech Systems.

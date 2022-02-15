@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Calendar
+parent_type: CourseSection
 parent_uid: 6b4f9286-3fba-1c85-bb1e-0aae26230815
 title: Inventory Management Case Preparation Questions
 uid: d302e01a-9bd3-5bbe-e1ee-8abc76ae5590
