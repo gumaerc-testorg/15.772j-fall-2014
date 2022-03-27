@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 6b4f9286-3fba-1c85-bb1e-0aae26230815
 resourcetype: Document
 title: Newsvendor Inventory Problem
 uid: 6952be57-b43a-a185-119c-6f114908bcc5

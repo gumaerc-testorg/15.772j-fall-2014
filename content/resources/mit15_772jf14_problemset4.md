@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 018e9898-1f4b-7421-3a5c-67dc7735ca78
 resourcetype: Document
 title: "Problem Set 4 \u2013 contracts and procurement"
 uid: a7e80362-4dbb-2a70-31c4-d5234133b1dc

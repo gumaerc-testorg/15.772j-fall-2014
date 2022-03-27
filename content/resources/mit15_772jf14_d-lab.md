@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 6b4f9286-3fba-1c85-bb1e-0aae26230815
 resourcetype: Other
 title: MIT15_772JF14_D-Lab.xlsx
 uid: 79139b0c-7f7f-6089-9963-03561ba16e4f

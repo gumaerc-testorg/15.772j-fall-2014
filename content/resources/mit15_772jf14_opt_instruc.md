@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 018e9898-1f4b-7421-3a5c-67dc7735ca78
 resourcetype: Document
 title: OPT Game Instruction
 uid: 682f98d8-19c2-65d8-a3a7-84d9e3f231eb

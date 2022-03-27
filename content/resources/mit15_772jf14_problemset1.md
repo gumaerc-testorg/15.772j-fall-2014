@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 018e9898-1f4b-7421-3a5c-67dc7735ca78
 resourcetype: Document
 title: Problem Set 1 - Forecasting
 uid: 1a5a21bf-c064-3017-a7cf-510cb094af4d

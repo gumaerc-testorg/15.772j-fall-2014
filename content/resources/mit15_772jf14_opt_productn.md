@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 018e9898-1f4b-7421-3a5c-67dc7735ca78
 resourcetype: Document
 title: OPT Production Game Assignment
 uid: 501bb4b3-4901-2b57-c46a-288f82b042e5

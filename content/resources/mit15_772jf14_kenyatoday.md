@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 018e9898-1f4b-7421-3a5c-67dc7735ca78
 resourcetype: Other
 title: MIT15_772JF14_KenyaToday.csv
 uid: c7b885f9-3648-0fac-585c-18ff6cc24e68

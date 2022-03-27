@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 6b4f9286-3fba-1c85-bb1e-0aae26230815
 resourcetype: Document
 title: Derivation of newsboy cost for uniform demand
 uid: dd330a3a-c5be-ec3d-e820-89b152792bc0

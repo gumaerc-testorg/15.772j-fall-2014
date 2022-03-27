@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 018e9898-1f4b-7421-3a5c-67dc7735ca78
 resourcetype: Document
 title: "Problem Set 2 \u2013 Process Analysis"
 uid: f17bfc0d-70c0-a400-9931-352e72ad7716
