@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, activities, readings,
+  and key dates. Citations and links to the readings and supporting files are included.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -240,7 +242,7 @@ Case Discussion: PATA Massachusetts General Hospital's Pre-admission Testing Are
 
 Case will be distributed in class. See McCarty, Kelsey, J. Gallien, and R. Levi. "Massachusetts General Hospital's Pre-Admission Testing Area (PATA)." MIT Sloan School of Management. Case: 11–116, January 3, 2012.
 
-[PATA Preparation Questions]({{< baseurl >}}/pages/calendar/pata-preparation-questions)
+{{% resource_link 80447e39-0a7d-057e-adab-c9f98ad42486 "PATA Preparation Questions" %}}
 
 
 {{< tdclose >}}
@@ -267,7 +269,7 @@ Case Discussion: Beleza Natural
 
 Case will be distributed prior to class. See Besbes, Omar, et al. "Beleza Natural." Columbia CaseWorks, Spring 2012, Case ID: 110206.
 
-[Beleza Natural Preparation Questions]({{< baseurl >}}/pages/calendar/beleza-natural-preparation-questions)
+{{% resource_link f889b63e-b712-4241-e22b-38170c929117 "Beleza Natural Preparation Questions" %}}
 
 
 {{< tdclose >}}
@@ -325,7 +327,7 @@ Case Discussion: Inventory Management Case
 
 Case will be distributed prior to class to read and prepare. See Wheelwright, Steven, and William Schmidt. "Scientific Glass, Inc.: Inventory Management: Brief Case No: 4208." Watertown, MA: Harvard Business Publishing Case, 2011.
 
-[Inventory Management Case Preparation Questions]({{< baseurl >}}/pages/calendar/inventory-management-case-preparation-questions)
+{{% resource_link d302e01a-9bd3-5bbe-e1ee-8abc76ae5590 "Inventory Management Case Preparation Questions" %}}
 
 
 {{< tdclose >}}
@@ -451,7 +453,7 @@ Case Study: Lean Process Improvements at Cleveland Clinic
 
 Case will be distributed prior to class. See Augustine, Grace, B. Duncan, and I. Duenyas. "Lean Process Improvements at Cleveland Clinic." Tauber Institute for Global Operations, University of Michigan Case. Published by GlobaLens, William Davidson Institute at the University of Michigan. Case: 1–428–795. May 14, 2009 for further reference.
 
-[Lean Process Improvements at Cleveland Clinic Preparation Questions]({{< baseurl >}}/pages/calendar/lean-process-improvements)
+{{% resource_link 969c86b9-7cab-2696-54d3-885d7dd95ab5 "Lean Process Improvements at Cleveland Clinic Preparation Questions" %}}
 
 
 {{< tdclose >}}

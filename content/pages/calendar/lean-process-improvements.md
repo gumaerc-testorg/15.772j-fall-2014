@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Preparation questions for case study of Lean Process Improvements at
+  Cleveland Clinic.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Calendar

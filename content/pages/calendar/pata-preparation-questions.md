@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Preparation questions for a case study of Massachusetts General Hospital's
+  Pre-Admission Testing Area (PATA).
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Calendar
