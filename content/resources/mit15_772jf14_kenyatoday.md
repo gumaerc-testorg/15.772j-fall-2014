@@ -5,6 +5,7 @@ file: /courses/15-772j-d-lab-supply-chains-fall-2014/c7b885f936480fac585c18ff6cc
 file_type: text/comma-separated-values
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT15_772JF14_KenyaToday.csv
 uid: c7b885f9-3648-0fac-585c-18ff6cc24e68
 ---
 This file contains information regarding Kenya mobile today.
-
