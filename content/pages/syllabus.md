@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, textbooks, requirements, grading, and academic honesty policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0e515190-d2eb-14de-c85c-efdd17239fc5
 ---

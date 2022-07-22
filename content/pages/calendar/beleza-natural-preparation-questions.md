@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: Preparation questions for a case study of Beleza Natural.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Calendar
+parent_type: CourseSection
 parent_uid: 6b4f9286-3fba-1c85-bb1e-0aae26230815
 title: Beleza Natural Preparation Questions
 uid: f889b63e-b712-4241-e22b-38170c929117
