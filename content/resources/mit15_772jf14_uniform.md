@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding derivation of newsboy cost for
   uniform demand.
 file: /courses/15-772j-d-lab-supply-chains-fall-2014/dd330a3ac5beec3de82089b152792bc0_MIT15_772JF14_Uniform.pdf
+file_size: 323730
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

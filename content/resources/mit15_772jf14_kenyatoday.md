@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding Kenya mobile today.
 file: /courses/15-772j-d-lab-supply-chains-fall-2014/c7b885f936480fac585c18ff6cc24e68_MIT15_772JF14_KenyaToday.csv
+file_size: 243
 file_type: text/comma-separated-values
 learning_resource_types:
 - Assignments

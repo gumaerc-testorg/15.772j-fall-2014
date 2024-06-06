@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding OPT production game assignment.
 file: /courses/15-772j-d-lab-supply-chains-fall-2014/501bb4b349012b57c46a288f82b042e5_MIT15_772JF14_OPT_Productn.pdf
+file_size: 155836
 file_type: application/pdf
 learning_resource_types:
 - Assignments
