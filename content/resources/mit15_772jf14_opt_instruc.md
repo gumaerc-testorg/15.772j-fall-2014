@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding OPT game instruction.
-file: /courses/15-772j-d-lab-supply-chains-fall-2014/682f98d819c265d8a3a784d9e3f231eb_MIT15_772JF14_OPT_Instruc.pdf
+file: /ol-ocw-studio-app/courses/15-772j-d-lab-supply-chains-fall-2014/682f98d819c265d8a3a784d9e3f231eb_MIT15_772JF14_OPT_Instruc.pdf
 file_size: 790139
 file_type: application/pdf
 learning_resource_types:
