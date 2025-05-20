@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding d-lab inventory.
-file: /ol-ocw-studio-app/courses/15-772j-d-lab-supply-chains-fall-2014/79139b0c7f7f6089996303561ba16e4f_MIT15_772JF14_D-Lab.xlsx
+file: /courses/15-772j-d-lab-supply-chains-fall-2014/79139b0c7f7f6089996303561ba16e4f_MIT15_772JF14_D-Lab.xlsx
 file_size: 12000
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types: []
